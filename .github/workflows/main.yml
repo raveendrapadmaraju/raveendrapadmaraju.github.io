@@ -1,0 +1,15 @@
+name: My First CI Pipeline
+on:
+  push:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome Message
+        run: echo  "Hello Students! CI/CD Pipeline is background:"
+      - name: Display Date
+        run:  date
+      - name: Pipeline Success
+        run: echo "Automation Completed Successfully"
+        
+      
