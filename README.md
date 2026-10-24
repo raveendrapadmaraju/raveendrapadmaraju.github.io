@@ -1,63 +1,51 @@
-# Senior Agile Delivery Lead
+# Raveendra Padmaraju
 
-> Enabling predictable delivery across cloud platforms, enterprise applications, and regulated infrastructure.
+IT Service Manager & Technical Delivery Leader | Espoo, Finland
 
-[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Senior%20Agile%20Delivery%20Roles-2563eb?style=for-the-badge)](#target-roles)
+I lead enterprise application services and technical delivery across manufacturing, healthcare and financial services. My 20+ years in enterprise IT span .NET and SharePoint engineering, enterprise platform migrations and managed-services portfolio leadership.
 
-## Profile
+## Current scope and reported outcomes
 
-Senior Agile Delivery Lead with **18+ years in enterprise IT** and **8+ years in Agile delivery leadership**. I coordinate delivery across **6+ Scrum and Kanban teams**, connecting Product, Engineering, Architecture, QA, Platform, Security, and Operations around realistic commitments and release outcomes.
+- €1M annual managed-services portfolio covering 80+ applications and 20+ services.
+- 30-person team handling more than 500 tickets per month.
+- 10% reduction in annual operating costs through automation, service rationalisation and application lifecycle optimisation.
+- Service availability above 99.9%, as reported in my current résumé.
 
-My focus is delivery predictability: making dependencies visible, matching capacity to commitments, surfacing risks early, and creating the governance needed for confident releases.
+Current role: Service Manager – Managed Services, Wipro | Client: Outokumpu Oy, March 2023–present. Figures describe the current résumé scope, not independently audited results.
 
-## Delivery Impact
+## What I bring
 
-| Outcome | Contribution |
-|---|---|
-| **25% faster time to market** | Coordinated PI planning, sprint execution, and release delivery across 6+ teams |
-| **20% fewer planning conflicts** | Introduced structured cross-team dependency mapping |
-| **25% fewer production defects** | Strengthened early testing and Definition of Done practices |
-| **6+ teams supported** | Managed Scrum/Kanban delivery, risks, dependencies, and release readiness |
+- Service ownership: ITIL-based governance, application lifecycle management, incident and problem priorities, and continual improvement.
+- Technical delivery: requirements, estimates, dependencies, testing, UAT, business acceptance and controlled releases.
+- Operational readiness: rollback planning, runbooks, knowledge transfer, hypercare and support handover.
+- Business and supplier alignment: service reviews, improvement priorities, financial visibility and renewal recommendations.
 
-## Core Capabilities
+## Selected experience
 
-- Agile delivery leadership and engineering execution
-- Product–Engineering alignment
-- Dependency, risk, and impediment management
-- Capacity planning and delivery forecasting
-- Release readiness and delivery governance
-- Agile metrics, flow management, and delivery dashboards
-- Scrum, Kanban, SAFe 6.0, PI Planning, Scrum of Scrums, System Demos, and Inspect & Adapt
+- Outokumpu / Wipro: managed-services portfolio leadership, application delivery and operational readiness.
+- ABB / Wipro: SharePoint and Microsoft 365 migration delivery, cutover, stabilisation and operational handover; earlier coordination across 100+ SharePoint applications and two .NET applications.
+- Philips Healthcare / Wipro: global SharePoint managed services and distributed technical delivery involving 15+ team members.
+- Earlier engineering: .NET and SharePoint development, technical design, mentoring, banking applications and capital markets solutions.
 
-## Technical Context
+## Tools and technical context
 
-`Jira` · `Azure DevOps` · `Cloud & Platform Delivery` · `DevOps` · `CI/CD` · `Infrastructure Modernization` · `SAP CRM` · `Sitecore`
+- Service and delivery: ServiceNow, Jira Service Management, Jira, Azure DevOps, Jira Align.
+- Reporting and collaboration: Power BI, Excel, Confluence, Microsoft Teams, PowerPoint, Miro.
+- Enterprise platforms: Microsoft Azure, Microsoft 365, SharePoint, .NET, Sitecore, SAP C4C.
+- Delivery context: ITIL-based service management, Agile, Scrum, SAFe, CI/CD, APIs and enterprise integrations.
 
-## Selected Delivery Work
+These reflect service ownership, coordination and earlier engineering experience—not equal hands-on proficiency in every product.
 
-### Sitecore CMS Migration
+## Education and certifications
 
-Led delivery coordination for the migration of **outokumpu.com**, a global corporate web platform for a stainless steel manufacturer. Managed planning, cross-team dependencies, testing coordination, stakeholder alignment, and release readiness across multiple teams.
-
-### SAP CRM Delivery
-
-Coordinated SAP CRM delivery across business and technical teams, managing sprint planning, testing coordination, dependencies, and stakeholder alignment for enterprise CRM application rollouts.
-
-## Target Roles
-
-- Senior Scrum Master
-- Agile Delivery Lead
-- Technical Delivery Lead — Cloud & Platform
-
-Open to permanent and contract opportunities across **Finland, the Nordics, and Europe**.
-
-## Certifications and Education
-
-- CSM — Scrum Alliance
-- SAFe 6.0 Agilist — Scaled Agile, Inc.
-- Master of Computer Applications (MCA) - Bengaluru University, India
-- BSc — Mathematics & Computer Science - SV University, Tirupathi, India
+- Master’s Degree Programme in Information Technology — in progress, Metropolia University of Applied Sciences, Finland; August 2026–present.
+- Master of Computer Applications (MCA), Acharya Institute of Management and Sciences, Bengaluru University, India.
+- ITIL 4 Foundation · Project Management Professional (PMP) · Certified SAFe 6 Agilist · Certified ScrumMaster (CSM).
 
 ## Contact
 
-For collaboration or career opportunities, connect with me through [LinkedIn](https://www.linkedin.com/in/raveendra-padmaraju/) or the contact details on my [portfolio](https://raveendrapadmaraju.github.io) page.
+- [LinkedIn](https://www.linkedin.com/in/raveendrarp/)
+- [Email](mailto:raveendra.padmaraju@gmail.com)
+- Based in Espoo, Finland.
+
+<!-- Before publishing: confirm client disclosure permission, metric baselines and periods, credentials and programme details. Add actual repository and deployed-portfolio links only when they exist and have been checked. -->
