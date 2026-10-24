@@ -1,51 +1,115 @@
 # Raveendra Padmaraju
 
-IT Service Manager & Technical Delivery Leader | Espoo, Finland
+IT Service Manager & Technical Delivery Leader  
+Espoo, Finland
 
-I lead enterprise application services and technical delivery across manufacturing, healthcare and financial services. My 20+ years in enterprise IT span .NET and SharePoint engineering, enterprise platform migrations and managed-services portfolio leadership.
+I lead enterprise application services and technical delivery,
+connecting business priorities, technical teams and suppliers to
+keep services dependable and prepare change for production.
 
-## Current scope and reported outcomes
+My 20+ years in enterprise IT span application engineering,
+enterprise platform migrations and managed-services leadership
+across manufacturing, healthcare and financial services.
 
-- €1M annual managed-services portfolio covering 80+ applications and 20+ services.
-- 30-person team handling more than 500 tickets per month.
-- 10% reduction in annual operating costs through automation, service rationalisation and application lifecycle optimisation.
-- Service availability above 99.9%, as reported in my current résumé.
+[LinkedIn](https://www.linkedin.com/in/raveendrarp/) ·
+[Email](mailto:raveendra.padmaraju@gmail.com)
 
-Current role: Service Manager – Managed Services, Wipro | Client: Outokumpu Oy, March 2023–present. Figures describe the current résumé scope, not independently audited results.
+## Scope and Outcomes
 
-## What I bring
+- Lead a €1M annual managed-services portfolio covering
+  80+ applications and 20+ services.
+- Direct a 30-person team handling more than 500 tickets per month.
+- Reduced annual operating costs by 10% through automation,
+  service rationalisation and application lifecycle optimisation.
+- Maintained service availability above 99.9%.
 
-- Service ownership: ITIL-based governance, application lifecycle management, incident and problem priorities, and continual improvement.
-- Technical delivery: requirements, estimates, dependencies, testing, UAT, business acceptance and controlled releases.
-- Operational readiness: rollback planning, runbooks, knowledge transfer, hypercare and support handover.
-- Business and supplier alignment: service reviews, improvement priorities, financial visibility and renewal recommendations.
+## What I Bring
 
-## Selected experience
+- Service ownership: ITIL-based governance, application lifecycle
+  management, service reviews and continual improvement.
+- Technical delivery: requirements, prioritisation, estimates,
+  dependencies, UAT, business acceptance and controlled releases.
+- Operational readiness: rollback planning, runbooks, knowledge
+  transfer, hypercare and support handover.
+- Financial and supplier management: budgeting, forecasting,
+  cost optimisation, supplier reviews and renewal recommendations.
+- Stakeholder alignment: connect business stakeholders,
+  engineering teams and suppliers around accountable actions.
 
-- Outokumpu / Wipro: managed-services portfolio leadership, application delivery and operational readiness.
-- ABB / Wipro: SharePoint and Microsoft 365 migration delivery, cutover, stabilisation and operational handover; earlier coordination across 100+ SharePoint applications and two .NET applications.
-- Philips Healthcare / Wipro: global SharePoint managed services and distributed technical delivery involving 15+ team members.
-- Earlier engineering: .NET and SharePoint development, technical design, mentoring, banking applications and capital markets solutions.
+## Selected Experience
 
-## Tools and technical context
+### Managed-Services Portfolio Leadership
+Wipro | Client: Outokumpu | March 2023–Present
 
-- Service and delivery: ServiceNow, Jira Service Management, Jira, Azure DevOps, Jira Align.
-- Reporting and collaboration: Power BI, Excel, Confluence, Microsoft Teams, PowerPoint, Miro.
-- Enterprise platforms: Microsoft Azure, Microsoft 365, SharePoint, .NET, Sitecore, SAP C4C.
-- Delivery context: ITIL-based service management, Agile, Scrum, SAFe, CI/CD, APIs and enterprise integrations.
+Lead application services and delivery priorities across an
+enterprise portfolio, balancing development needs with service
+commitments, financial discipline and operational readiness.
 
-These reflect service ownership, coordination and earlier engineering experience—not equal hands-on proficiency in every product.
+### Enterprise Platform Migration Delivery
+Wipro | Client: ABB | September 2020–February 2023
 
-## Education and certifications
+Delivered SharePoint and Microsoft 365 migrations through
+requirements, planning, UAT, cutover, stabilisation and
+operational handover.
 
-- Master’s Degree Programme in Information Technology — in progress, Metropolia University of Applied Sciences, Finland; August 2026–present.
-- Master of Computer Applications (MCA), Acharya Institute of Management and Sciences, Bengaluru University, India.
-- ITIL 4 Foundation · Project Management Professional (PMP) · Certified SAFe 6 Agilist · Certified ScrumMaster (CSM).
+### Global Application Services
+Wipro | Client: Philips Healthcare | August 2013–February 2018
 
-## Contact
+Led technical delivery and managed-services support for global
+SharePoint environments, coordinating 15+ team members across
+distributed teams.
 
-- [LinkedIn](https://www.linkedin.com/in/raveendrarp/)
-- [Email](mailto:raveendra.padmaraju@gmail.com)
-- Based in Espoo, Finland.
+## Tools and Technical Context
 
-<!-- Before publishing: confirm client disclosure permission, metric baselines and periods, credentials and programme details. Add actual repository and deployed-portfolio links only when they exist and have been checked. -->
+- Service and delivery: ServiceNow, Jira Service Management,
+  Jira, Azure DevOps and Jira Align.
+- Reporting and collaboration: Power BI, Excel, Confluence,
+  Microsoft Teams and Miro.
+- Enterprise platforms: Microsoft Azure, Microsoft 365,
+  SharePoint, .NET, Sitecore and SAP C4C.
+
+My experience includes service ownership, delivery coordination
+and earlier hands-on engineering—not equal implementation
+depth in every platform.
+
+<details>
+<summary>Education and certifications</summary>
+
+### Education
+
+- Master’s Degree Programme in Information Technology —
+  in progress, Metropolia University of Applied Sciences,
+  Finland; August 2026–present.
+- Master of Computer Applications (MCA),
+  Acharya Institute of Management and Sciences,
+  Bengaluru University, India.
+
+### Certifications
+
+- ITIL 4 Foundation
+- Project Management Professional (PMP)
+- Certified SAFe 6 Agilist
+- Certified ScrumMaster (CSM)
+
+</details>
+
+## Connect
+
+I bring experience relevant to IT Service Manager,
+Service Delivery Manager and Technical Delivery Lead roles.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/raveendrarp/) ·
+[Send an email](mailto:raveendra.padmaraju@gmail.com)
+
+<!--
+Add a Featured Work section above What I Bring once you have
+real, reviewed repositories to link.
+
+For each item, include:
+- A descriptive title and actual repository URL.
+- The problem it addresses.
+- The artefacts or decisions it demonstrates.
+
+Confirm metric scope, measurement periods, disclosure permission,
+credential status and education details before publication.
+-->
